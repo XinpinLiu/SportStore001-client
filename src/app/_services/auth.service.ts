@@ -6,7 +6,8 @@ import { Observable } from 'rxjs';
 
 
 
-const AUTH_API = 'http://localhost:8080/api/auth/';
+//const AUTH_API = 'http://localhost:8080/api/auth/';
+const AUTH_API = 'https://xinpin001.onrender.com/api/auth/';
 
 
 
